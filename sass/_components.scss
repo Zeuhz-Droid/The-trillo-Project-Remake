@@ -369,11 +369,41 @@
             // background-size: cover;
 
             //newer browsers - masks
-            background-color: var(--color-golden);
-            -webkit-mask-iamge:  url(../img/chevron-thin-right.svg);
+            background-color: var(--color-golden-dark);
+            -webkit-mask-image:  url(../img/chevron-thin-right.svg);
+            mask-image:  url(../img/chevron-thin-right.svg);
+            -webkit-mask-size: cover;
+            mask-size: cover;
         }
     }
 }
 
 ///////////////////////////////////////////////////
 //RECOMMEND
+
+.recommend {
+    font-size: 1.3rem;
+    color: var(--color-grey-dark-3);
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+
+    &__photo {
+        box-sizing: content-box;
+        height: 4rem;
+        width: 4rem;
+        border: 3px solid #fff;
+        border-radius: 50%;
+
+        &:not(:last-child) {
+            margin-right: -1.5rem;
+        }
+    }
+
+    &__count {
+        margin-right: auto;
+    }
+}
