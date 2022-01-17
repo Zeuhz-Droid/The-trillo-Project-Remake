@@ -13,3 +13,7 @@ always fun to code. especially from the ground up.
 ## 16/01/2022
 
 Wrote more Html and sass codes to modify the page... nothing too difficult, but definitely fun.
+
+## 17/01/2022
+
+Completed the project and wrote some media queries to it as well.
