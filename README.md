@@ -16,4 +16,8 @@ Wrote more Html and sass codes to modify the page... nothing too difficult, but 
 
 ## 17/01/2022
 
-Completed the project and wrote some media queries to it as well.
+Completed the project and wrote some media queries to it as well.\
+
+## 23/01/2022
+
+Sorry, i have been away, so been busy. Anyohz, i just added a dropdown feature `without functionality --no javascript` to the user nav as a user profile navigation. It panned out well enough.
