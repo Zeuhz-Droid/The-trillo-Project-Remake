@@ -23,3 +23,7 @@ Completed the project and wrote some media queries to it as well.\
 Sorry, i have been away, so been busy. Anyohz, i just added a dropdown feature `without functionality --no javascript` to the user nav as a user profile navigation. It panned out well enough.
 
 Added notification messages on the notification icons.
+
+## 12/04/2022
+This site is hosted at https://zeuhz-droid.github.io/The-trillo-Project-Remake/ check and review, drop comments, a star or/and a follow.
+Thank YOU.
